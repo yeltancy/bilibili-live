@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-interact/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-interact/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-resource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-resource/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/mylive-cloud-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-cloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/mylive-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/mylive-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/mylive-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/mylive-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/mylive-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/mylive-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workspace-src/mylive-java/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

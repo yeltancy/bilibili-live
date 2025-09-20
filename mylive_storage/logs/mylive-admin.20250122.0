@@ -1,0 +1,6 @@
+2025-01-22 17:05:55 [INFO][com.mylive.admin.MyliveAdminRunApplication][logStarting][55]-> Starting MyliveAdminRunApplication using Java 1.8.0_401 on musediao with PID 19072 (E:\workspace\workspace-src\mylive-java\mylive-admin\target\classes started by 25220 in E:\workspace)
+2025-01-22 17:05:55 [DEBUG][com.mylive.admin.MyliveAdminRunApplication][logStarting][56]-> Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-22 17:05:55 [INFO][com.mylive.admin.MyliveAdminRunApplication][logStartupProfileInfo][632]-> No active profile set, falling back to 1 default profile: "default"
+2025-01-22 17:05:55 [DEBUG][org.springframework.boot.SpringApplication][load][665]-> Loading source class com.mylive.admin.MyliveAdminRunApplication
+2025-01-22 17:05:55 [DEBUG][org.jboss.logging][logProvider][152]-> Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2025-01-22 17:05:55 [INFO][org.hibernate.validator.internal.util.Version][<clinit>][21]-> HV000001: Hibernate Validator 6.2.5.Final

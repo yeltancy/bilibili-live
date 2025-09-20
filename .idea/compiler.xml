@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mylive-cloud-resource" />
+        <module name="mylive-admin" />
+        <module name="mylive-web" />
+        <module name="mylive-cloud-base" />
+        <module name="mylive-cloud-gateway" />
+        <module name="mylive-common" />
+        <module name="mylive-cloud-admin" />
+        <module name="mylive-cloud-web" />
+        <module name="mylive-cloud-common" />
+        <module name="mylive-cloud-interact" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easylive-cloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mylive-admin" options="-parameters" />
+      <module name="mylive-cloud-admin" options="-parameters" />
+      <module name="mylive-cloud-base" options="-parameters" />
+      <module name="mylive-cloud-common" options="-parameters" />
+      <module name="mylive-cloud-gateway" options="-parameters" />
+      <module name="mylive-cloud-interact" options="-parameters" />
+      <module name="mylive-cloud-resource" options="-parameters" />
+      <module name="mylive-cloud-web" options="-parameters" />
+      <module name="mylive-common" options="-parameters" />
+      <module name="mylive-web" options="-parameters" />
+    </option>
+  </component>
+</project>
